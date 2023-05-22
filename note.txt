@@ -1,0 +1,13 @@
+Docker:
+    -   docker ps   :  
+    -   ls -la   :
+    -   docker compose up -d    :  Run docker (.)
+    -   docker networks
+    -   docker ps
+    -   docker compose up -d dev-database -d
+    -   docker ps
+    -   docker logs dev-database (.)
+    -   npm i -D prisma
+    -   docker ps -a
+    -   npx prisma --help
+    -   npx prisma migrate dev (.)
